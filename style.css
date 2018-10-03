@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400|Playfair+Display+SC:700');
+
+.title-font {
+  font-family: 'Playfair Display SC' serif;
+  font-weight: 700;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
