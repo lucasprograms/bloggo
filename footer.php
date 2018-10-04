@@ -1,5 +1,7 @@
 
-  <footer class="col-12 justify-content-end border-top">
+  <footer class="col-12 d-flex justify-content-end border-top p-0">
+    <a class="btn btn-link footer-link" href="./about">About</a>
+    <a class="btn btn-link footer-link" href="./help">Help</a>
   </footer>
   <!-- boootstrap js -->
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
