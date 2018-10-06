@@ -7,5 +7,16 @@
 
 body {
   font-family: 'Open Sans', sans-serif;
+  background-color: #ecf0f1;
+}
+
+header {
+  background-color: #9b59b6;
+  color: #EEE;
+}
+
+.post .card-header {
+  background-color: #34495e;
+  color: #EEE;
 }
 
