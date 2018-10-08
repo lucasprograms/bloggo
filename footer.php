@@ -1,4 +1,5 @@
 
+  </div>
   <footer class="col-12 d-flex justify-content-end border-top p-0">
     <a class="btn btn-link footer-link" href="./about">About</a>
     <a class="btn btn-link footer-link" href="./help">Help</a>

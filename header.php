@@ -11,9 +11,10 @@
 </head>
 <body class="container">
   <header class="rounded-bottom row mb-5 pt-4 pb-4">
-    <div class="row col-4 site-title-container">
+    <div class="col-4 site-title-container">
       <h1 class="col-12 site-title title-font text-uppercase"><?php bloginfo('name') ?></h1>
       <small class="col-12 site-description mb-2 align-self-center"><?php bloginfo('description') ?></small>
     </div>
   </header>
+  <div class="row">
   

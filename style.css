@@ -1,8 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400|Playfair+Display+SC:700');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400|Playfair+Display+SC:700|Alfa+Slab+One');
 
 .title-font {
-  font-family: 'Playfair Display SC' serif;
-  font-weight: 700;
+  font-family: 'Alfa Slab One', serif;
+  letter-spacing: .1em;
+  text-transform: uppercase;
 }
 
 body {
@@ -18,5 +19,49 @@ header {
 .post .card-header {
   background-color: #34495e;
   color: #EEE;
+}
+
+.featured-content__title {
+  background-color: #273746;
+  color: #FFF;
+  font-family: 'Alfa Slab One';
+  font-size: 40px;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  padding: 1.5rem .5rem;
+}
+
+.sidebar__title {
+  background-color: #dfa54e;
+  color: #FFF;
+  font-family: 'Alfa Slab One';
+  font-size: 40px;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  padding: 1.5rem .5rem;
+}
+
+.featured-content__content {
+  border: 2px solid #273746;
+  border-top: none;
+  padding-top: 1.5rem;
+  background-color: #FFF;
+}
+
+.sidebar {
+  border: 2px solid #273746;
+}
+
+.sidebar .list-group-item {
+  border-left: none;
+  border-right: none;
+}
+
+.sidebar .list-group-item:first-child {
+  border-radius: 0;
+}
+
+.sidebar .list-group-item:last-child {
+  border-radius: 0;
 }
 
